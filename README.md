@@ -1,3 +1,3 @@
-# wavelet-ms-classification
+# Wavelet-MS-Classification
 
 Paper implementation of [A New Wavelet-Based Approach for Mass Spectrometry Data Classification](https://www.researchgate.net/publication/329450916_A_New_Wavelet-Based_Approach_for_Mass_Spectrometry_Data_Classification?enrichId=rgreq-e4e9475abce09853dd7bc2d43f2c2658-XXX&enrichSource=Y292ZXJQYWdlOzMyOTQ1MDkxNjtBUzo3NDEwMjExOTMzNDcwODRAMTU1MzY4NDYyODIwMg%3D%3D&el=1_x_3&_esc=publicationCoverPdf).
